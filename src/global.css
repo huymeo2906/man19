@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --body-l-18-sp-semibold-18: Inter;
+
+  /* font sizes */
+  --body-s-14-sp-medium-size: 14px;
+  --font-size-3xs: 10px;
+  --body-l-18-sp-semibold-18-size: 18px;
+  --caption-12-regular-size: 12px;
+
+  /* Colors */
+  --white: #fff;
+  --bg: #f7f7f8;
+  --line: #efefef;
+  --primary-default: #4877ef;
+  --primary-10: rgba(72, 119, 239, 0.1);
+  --caption: #a7a7a7;
+  --colors-grey-grey-4: #c5c5c5;
+  --theme-text-body: #374151;
+  --body-text: #393939;
+  --theme-text-heading: #111827;
+  --theme-primary-100: #217582;
+
+  /* Gaps */
+  --gap-xl: 20px;
+  --gap-5xs: 8px;
+  --gap-9xs: 4px;
+  --gap-base: 16px;
+  --gap-12xs: 1px;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+  --padding-5xl: 24px;
+  --padding-5xs: 8px;
+  --padding-base: 16px;
+  --padding-xs: 12px;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+  --br-7xs: 6px;
+  --br-5xs: 8px;
+  --br-80xl: 99px;
+
+  /* Effects */
+  --grey-shadows-5: 0px 8px 24px -4px rgba(27, 46, 94, 0.08);
+  --line-light-bottom: 0px -1px 0px #ececec inset;
+  --card-2: 0px 2px 10px rgba(0, 0, 0, 0.05);
+}
